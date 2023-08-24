@@ -1,6 +1,6 @@
 ### Hi, I'm Mariano 👋
 
-![Logo](https://user-images.githubusercontent.com/89040378/201778133-934e5199-89c1-4431-8982-e6afe5a6c75a.jpg)    
+<!--![Logo](https://user-images.githubusercontent.com/89040378/201778133-934e5199-89c1-4431-8982-e6afe5a6c75a.jpg)    
    <!--
    You can find me 🌎 :
    - [Instagram](https://www.instagram.com/ellirikaz/)
